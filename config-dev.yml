@@ -1,4 +1,5 @@
 server：
   port:70012
-config:
-  info:hahahahah
+spring:
+  application:
+    name: hahaha
