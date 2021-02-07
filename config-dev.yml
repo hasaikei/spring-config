@@ -1,3 +1,4 @@
-server.port=8000
-123456
-config:hahah
+server：
+  port:70012
+config:
+  info:hahahahah
